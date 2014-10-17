@@ -82,7 +82,7 @@
                     </ul>
                 </li>
                 <li>
-                    <a data-target="#" href="http://rock.opendfki.de/newticket">
+                    <a data-target="#" href="<?=$basicUrl;?>documentation/introduction/index.php?page=contributing">
                         Community
                     </a>
                 </li>
