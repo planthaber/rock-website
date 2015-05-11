@@ -14,8 +14,8 @@
                 {% endfor %}
                 </ul>
             </li>
-            <li><i class="fa fa-angle-right"></i> <a href="{%  post_url documentation/introduction/2014-01-07-installation  %}">Installation</a></li>
-            <li><i class="fa fa-angle-right"></i> <a href="{%post_url documentation/introduction/2014-01-08-managing_packages%}">Managing Packages</a>
+            <li><i class="fa fa-angle-right"></i> <a href="{% post_url documentation/introduction/2014-01-07-installation  %}">Installation</a></li>
+            <li><i class="fa fa-angle-right"></i> <a href="{% post_url documentation/introduction/2014-01-08-managing_packages %}">Managing Packages</a>
                 <ul class="list-unstyled">
                     {% for post in site.posts %}
                     {% if post.group == "managingPackages" %}

@@ -9,7 +9,7 @@
         <div class="header-navigation pull-right font-transform-inherit">
             <ul>
                 <li>
-                    <a href='{{"/documentation/introduction/index.php?page=installation" | prepend: site.baseurl}}'>
+                    <a href='{% post_url documentation/introduction/2014-01-07-installation %}'>
                         Installation
                     </a>
                 </li>
@@ -35,7 +35,7 @@
                                     <div class="col-md-4 header-navigation-col">
                                         <h4>Tutorials</h4>
                                         <ul>
-                                            <li><a href='{{"/documentation/tutorials/index.php?page=introduction" | prepend: site.baseurl}}'>Basics</a></li>
+                                            <li><a href='{% post_url documentation/introduction/2014-01-01-overview %}'>Basics</a></li>
                                             <li><a href="index.html">Advanced</a></li>
                                             <li><a href="index.html">System Management</a></li>
                                         </ul>
@@ -82,7 +82,7 @@
                     </ul>
                 </li>
                 <li>
-                    <a data-target="#" href='{{"/documentation/introduction/index.php?page=contributing" | prepend: site.baseurl}}'>
+                    <a data-target="#" href='{% post_url documentation/introduction/2014-01-05-contributing %}'>
                         Community
                     </a>
                 </li>

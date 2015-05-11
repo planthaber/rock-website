@@ -7,22 +7,20 @@ date:   2014-11-22 23:08:05
 categories: introduction
 group: "contributing"
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<p>There are multiple ways to contribute to Rock</p>
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+<p>First and foremost, you can <a href="bugreports.html">report bugs</a> on the Trac
+interface, send comments and suggest enhancements (both positive and negative
+ones) to the <a href="http://www.dfki.de/mailman/cgi-bin/listinfo/rock-users">rock-users</a> mailing
+lists.</p>
 
-Jekyll also offers powerful support for code snippets:
+<p>One thing that is always in need of contribution is documentation: create new
+pages <a href="http://rock.opendfki.de">on the Rock trac</a> or <a href="documentation.html">update the Rock reference
+documentation</a> on the Rock website.</p>
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+<p>More advanced users can contribute bugfixes and enhancements to the main Rock
+codebase, by either sending patches to the rock-users mailing list or using
+gitorious cloning and merge request functionality. We also welcome you to
+<a href="packages.html">publish packages and tell us about them</a> so that they become
+part of the Rock package directory.</p>
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help

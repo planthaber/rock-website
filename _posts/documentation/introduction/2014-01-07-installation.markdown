@@ -23,11 +23,11 @@ Rock should work, but we have had no known report of its success or failure.
 <table>
   <tbody>
     <tr>
-      <td><img src="install/ubuntu.png" alt="Ubuntu"></td>
+      <td><img src="/images/ubuntu.png" alt="Ubuntu"></td>
       <td>Latest LTS and later (currently anything newer than 12.04). We let 6 months after a LTS release before deprecating the previous LTS.</td>
     </tr>
     <tr>
-      <td><img src="install/debian.png" alt="Debian"></td>
+      <td><img src="images/debian.png" alt="Debian"></td>
       <td>testing or unstable</td>
     </tr>
   </tbody>
@@ -38,19 +38,19 @@ Rock should work, but we have had no known report of its success or failure.
 <table>
   <tbody>
     <tr>
-      <td><img src="install/gentoo.gif" alt="Gentoo"></td>
+      <td><img src="/images/gentoo.gif" alt="Gentoo"></td>
       <td>Last known working version end of 2011</td>
     </tr>
     <tr>
-      <td><img src="install/arch.png" alt="Arch"></td>
+      <td><img src="/images/arch.png" alt="Arch"></td>
       <td>Last known working version end of 2013</td>
     </tr>
     <tr>
-      <td><img src="install/opensuse.png" alt="OpenSuse"></td>
+      <td><img src="/images/opensuse.png" alt="OpenSuse"></td>
       <td>Beta state, started 2014</td>
     </tr>
     <tr>
-      <td><img src="install/fedora.png" alt="Fedora"></td>
+      <td><img src="/images/fedora.png" alt="Fedora"></td>
       <td>Last known working version 2012</td>
     </tr>
   </tbody>
