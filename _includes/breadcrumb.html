@@ -1,0 +1,9 @@
+<!-- BEGIN BREADCRUMB -->
+<ul class="breadcrumb">
+    <li><a href="{{site.baseurl}}">Home</a></li>
+{% for category in page.categories %}
+    <li>{{category}}</li>
+{% endfor %}
+    <li class="active">{{page.title}}</li>
+</ul>
+<!-- END BREADCRUMB -->
