@@ -4,22 +4,22 @@
     <div class="col-md col-sm">
         <h2>Introduction</h2>
         <ul class="list-unstyled">
-            <li><i class="fa fa-angle-right"></i> <a href="{% post_url documentation/introduction/2014-01-01-overview %}" >Overview</a></li>
+            <li><i class="fa fa-angle-right"></i> <a href="{% post_url documentation/introduction/2014-01-01-overview %}" {% if page.url == "/introduction/overview.html" %} class="active "{% endif %} >Overview</a></li>
             <li><i class="fa fa-angle-right"></i> <a href="{% post_url documentation/introduction/2014-01-03-about_rock %}">About Rock</a>
                 <ul class="list-unstyled">
                 {% for post in site.posts %}
                     {% if post.group == "aboutRock" %}
-                    <li><i class="fa fa-angle-right"></i> <a href="{{post.url}}" {% if page.url == post.url %}class="active"{% endif %}>{{post.title}}</a></li>
+                    <li><i class="fa fa-angle-right"></i> <a href="{{post.url}}" {% if page.url == post.url %} class="active" {% endif %}>{{post.title}}</a></li>
                     {% endif %}
                 {% endfor %}
                 </ul>
             </li>
-            <li><i class="fa fa-angle-right"></i> <a href="{% post_url documentation/introduction/2014-01-07-installation  %}">Installation</a></li>
+            <li><i class="fa fa-angle-right"></i> <a href="{% post_url documentation/introduction/2014-01-07-installation  %}" {% if page.url == "/introduction/installation.html" %} class="active "{% endif %}>Installation</a></li>
             <li><i class="fa fa-angle-right"></i> <a href="{% post_url documentation/introduction/2014-01-08-managing_packages %}">Managing Packages</a>
                 <ul class="list-unstyled">
                     {% for post in site.posts %}
                     {% if post.group == "managingPackages" %}
-                    <li><i class="fa fa-angle-right"></i> <a href="{{post.url}}" {% if page.url == post.url %}class="active"{% endif %}>{{post.title}}</a></li>
+                    <li><i class="fa fa-angle-right"></i> <a href="{{post.url}}" {% if page.url == post.url %} class="active" {% endif %}>{{post.title}}</a></li>
                     {% endif %}
                     {% endfor %}
                 </ul>
@@ -28,7 +28,7 @@
                 <ul class="list-unstyled">
                     {% for post in site.posts %}
                     {% if post.group == "contributing" %}
-                    <li><i class="fa fa-angle-right"></i> <a href="{{post.url}}" {% if page.url == post.url %}class="active"{% endif %}>{{post.title}}</a></li>
+                    <li><i class="fa fa-angle-right"></i> <a href="{{post.url}}" {% if page.url == post.url %} class="active "{% endif %}>{{post.title}}</a></li>
                     {% endif %}
                     {% endfor %}
                 </ul>
