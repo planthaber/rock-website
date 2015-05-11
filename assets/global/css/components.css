@@ -94,6 +94,10 @@ li {
   border-radius: 0 !important;
 }
 
+pre {
+  margin: 10px 0 10px 0 !important;
+}
+
 .img-circle {
   border-radius: 50% !important;
 }
