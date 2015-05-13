@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rock Robotics</title>
+    <description>Um site qualquer
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 13 May 2015 20:24:02 -0300</pubDate>
+    <lastBuildDate>Wed, 13 May 2015 20:24:02 -0300</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Amazing Project 3</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 22 Nov 2014 20:08:05 -0300</pubDate>
+        <link>http://localhost:4000/test/test3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/test/test3.html</guid>
+        
+        
+        <category>test</category>
+        
+      </item>
+    
+      <item>
+        <title>Amazing Project 2</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 22 Nov 2014 20:08:05 -0300</pubDate>
+        <link>http://localhost:4000/test/test2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/test/test2.html</guid>
+        
+        
+        <category>test</category>
+        
+      </item>
+    
+      <item>
+        <title>Amazing Project 1</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 22 Nov 2014 20:08:05 -0300</pubDate>
+        <link>http://localhost:4000/test/test1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/test/test1.html</guid>
+        
+        
+        <category>test</category>
+        
+      </item>
+    
+      <item>
+        <title>Sending Changes</title>
+        <description>&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This page covers how to send modifications to code and documentation to the Rock
+developers, assuming that you did not get a direct commit access to the
+packages you modify.&lt;/p&gt;
+
+&lt;p&gt;The Rock repositories have been moved from gitorious to github - they can now be
+found here: &lt;a href=&quot;https://github.com/rock-core&quot;&gt;https://github.com/rock-core&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The other pages in this Contributing section cover the other aspects: how the
+documentation is done, how to create new packages, …&lt;/p&gt;
+
+&lt;p&gt;The main part of this page will deal with how to use github to submit changes
+to the Rock codebase and documentation.&lt;/p&gt;
+
+&lt;p&gt;This tutorial will teach you how to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Create your own working copy of a Rock repository,&lt;/li&gt;
+  &lt;li&gt;configure your Rock installation accordingly and&lt;/li&gt;
+  &lt;li&gt;create pull requests.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;create-your-own-working-copy&quot;&gt;Create your own working copy&lt;/h2&gt;
+&lt;p&gt;To create your own working copy of one of the Rock repositories, fork the
+&lt;em&gt;rock-core&lt;/em&gt; repository - this is done as follows:&lt;/p&gt;
+
+&lt;p&gt;Go to the &lt;em&gt;rock-core&lt;/em&gt; repository on github - for example
+&lt;a href=&quot;https://github.com/rock-core/gui-vizkit3d&quot;&gt;https://github.com/rock-core/gui-vizkit3d&lt;/a&gt;. Click “fork” to create your own
+working copy of the repository - the corresponding URL will be
+&lt;em&gt;https://github.com/your_name/gui-vizkit3d&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;configure-your-rock-installation&quot;&gt;Configure your Rock installation&lt;/h2&gt;
+&lt;p&gt;As you are now working on your own forked version of the &lt;em&gt;rock-core&lt;/em&gt; repository,
+you need to configure your Rock installation accordingly.&lt;/p&gt;
+
+&lt;p&gt;First “cd” into your repository and add a new remote:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-coderay&quot;&gt;&lt;div class=&quot;CodeRay&quot;&gt;
+  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;git remote add your_name https://github.com/your_name/your_repository.git
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Then, “cd” into your &lt;em&gt;dev/autoproj/&lt;/em&gt; folder and update the file &lt;em&gt;overrides.yml&lt;/em&gt;
+as follows:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-coderay&quot;&gt;&lt;div class=&quot;CodeRay&quot;&gt;
+  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;  - &lt;span style=&quot;background-color:hsla(0,100%,50%,0.05)&quot;&gt;&lt;span style=&quot;color:#D20&quot;&gt;your_repository:&lt;/span&gt;&lt;/span&gt;
+    &lt;span style=&quot;color:#606&quot;&gt;branch&lt;/span&gt;: &lt;span style=&quot;background-color:hsla(0,100%,50%,0.05)&quot;&gt;&lt;span style=&quot;color:#D20&quot;&gt;master&lt;/span&gt;&lt;/span&gt;
+    &lt;span style=&quot;color:#606&quot;&gt;url&lt;/span&gt;: &lt;span style=&quot;background-color:hsla(0,100%,50%,0.05)&quot;&gt;&lt;span style=&quot;color:#D20&quot;&gt;git@github.com:your_name/your_repository.git&lt;/span&gt;&lt;/span&gt;
+    &lt;span style=&quot;color:#606&quot;&gt;push_to&lt;/span&gt;: &lt;span style=&quot;background-color:hsla(0,100%,50%,0.05)&quot;&gt;&lt;span style=&quot;color:#D20&quot;&gt;git@github.com:your_name/your_repository.git&lt;/span&gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;From now on, changes you make to your repository are pushed to the respective
+branch of your forked repository.&lt;/p&gt;
+
+&lt;h2 id=&quot;create-pull-requests&quot;&gt;Create pull requests&lt;/h2&gt;
+&lt;p&gt;Once you have changed some of the code, tested the result and want to commit
+your changes to the corresponding &lt;em&gt;rock-core&lt;/em&gt; repository, you need to create
+a pull request. The standard procedure is as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Go to your forked repository on github.&lt;/li&gt;
+  &lt;li&gt;Click &lt;em&gt;Pull Requests&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Click &lt;em&gt;New pull request&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;You will now see see the changes you committed to your forked repository and
+which are not yet in the corresponding &lt;em&gt;rock-core&lt;/em&gt; repository.&lt;/li&gt;
+  &lt;li&gt;Click &lt;em&gt;Create pull request&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;You should give your pull request a meaningful name and enter a comment,
+so that the people checking your pull request easily understand what changes
+you made.&lt;/li&gt;
+  &lt;li&gt;Click &lt;em&gt;Create pull request&lt;/em&gt;. A mail will be sent out to notify the
+core developers. Any comments on the request will alert you back via e-mail
+as well.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 22 Nov 2014 20:08:05 -0300</pubDate>
+        <link>http://localhost:4000/introduction/sending_changes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/introduction/sending_changes.html</guid>
+        
+        
+        <category>introduction</category>
+        
+      </item>
+    
+      <item>
+        <title>Release Strategy</title>
+        <description>&lt;p&gt;Rock does &lt;strong&gt;not&lt;/strong&gt; have fixed-point release.&lt;/p&gt;
+
+&lt;p&gt;Rock is maintained on a rolling-release basis. Each package provides three
+branches or ‘flavors’&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the ‘master’ branch on which the development is made&lt;/li&gt;
+  &lt;li&gt;the ‘next’ branch on which changes are applied from ‘master’ to make sure
+everything works fine before …&lt;/li&gt;
+  &lt;li&gt;.. the ‘stable’ branch is updated from ‘next’&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More specifically, the whole process works on the basis of the following cycle:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;‘next’ gets open for updates during a week. After this week, the only changes
+that can be pushed to ‘next’ are bugfixes and documentation updates.
+Developers are required to publicize any API-breaking changes on the rock-dev
+mailing list BEFORE this merge window.&lt;/li&gt;
+  &lt;li&gt;when ‘next’ is ready, i.e. if no known critical bug exists on next &lt;em&gt;after&lt;/em&gt;
+at least a 3-week period, changes on ‘next’ are pushed to ‘stable’ and ‘next’
+gets open for new updates.&lt;/li&gt;
+  &lt;li&gt;LOOP 1&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This strategy will be the main release mechanism for Rock. There &lt;strong&gt;will&lt;/strong&gt; be
+some exceptions, when some in-depth changes require to change a lot of packages
+at the same time.&lt;/p&gt;
+
+&lt;p&gt;In this case, the changes will be made on a separate branch (‘topic branch’),
+and tested. Once they are deemed of a good-enough quality, they will be
+first publicized to rock-dev and then merged into master (and, later on, to next
+and finally to stable).&lt;/p&gt;
+
+&lt;p&gt;Since they are pervasive changes, it is important for us that people can prepare
+themselves by branching or by avoiding updates for a while, i.e. that they can’t
+break existing systems unknowingly.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 22 Nov 2014 20:08:05 -0300</pubDate>
+        <link>http://localhost:4000/introduction/release_strategy.html</link>
+        <guid isPermaLink="true">http://localhost:4000/introduction/release_strategy.html</guid>
+        
+        
+        <category>introduction</category>
+        
+      </item>
+    
+      <item>
+        <title>Packages</title>
+        <description>&lt;p&gt;There are two options for you To contribute packages to Rock:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;make your package a part of Rock ‘proper’, i.e. of the Rock package set&lt;/li&gt;
+  &lt;li&gt;create &lt;a href=&quot;../autoproj/advanced/creating_pkg_set.html&quot;&gt;your own package set&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This page will describe the process for both options.&lt;/p&gt;
+
+&lt;h2 id=&quot;add-your-package-to-rock&quot;&gt;Add your package to Rock&lt;/h2&gt;
+
+&lt;p&gt;As a side note, it is important that you realize that your library can be
+integrated &lt;em&gt;without any changes&lt;/em&gt; to Rock. The Rock build system is designed for
+that, as long as it follows widely-accepted standards (see for instance
+the “Build System Behaviour” section of the &lt;a href=&quot;http://rock.opendfki.de/wiki/WikiStart/Standards/RG4&quot;&gt;corresponding Rock
+guidelines&lt;/a&gt;. Even the
+manifest.xml file, which is used to describe the package, &lt;a href=&quot;../autoproj/advanced/manifest.xml#package_set&quot;&gt;can be provided as
+part of the package set&lt;/a&gt; instead
+of as part of the package itself.&lt;/p&gt;
+
+&lt;p&gt;The process to get a package in Rock is:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;locally modify the rock package set (in autoproj/remotes/rock) to define your
+package. The package should go in the libs.autobuild file if it is a library
+and in the orogen.autobuild file if it is an oroGen package.&lt;/li&gt;
+  &lt;li&gt;commit these changes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;gitorious.html&quot;&gt;send these changes to the Rock developers&lt;/a&gt;. Make sure that
+the purpose of the package(s) is clear.&lt;/li&gt;
+  &lt;li&gt;at this point, there is the option of putting the source code within Rock’s
+gitorious projects. While it is not mandatory, it is the preferred option.
+The Rock developers will be in touch with you to discuss this (either through
+the &lt;a href=&quot;http://www.dfki.de/mailman/cgi-bin/listinfo/rock-users&quot;&gt;rock-users mailing list&lt;/a&gt; or through the merge request / ticket you created)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;publish-your-package-set-in-rock&quot;&gt;Publish your package set in Rock&lt;/h2&gt;
+
+&lt;p&gt;If you have integrated more than one package, and want to keep control over
+these packages (i.e. want them to appear to be a separate contribution from your
+company / research institute), there is the possibility to submit a package set.
+This package set will be added to Rock’s default build configuration, and will
+be integrated in the Rock package directory.&lt;/p&gt;
+
+&lt;p&gt;The process to submit a package set is:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;send the link and description of the package set to &lt;a href=&quot;http://www.dfki.de/mailman/cgi-bin/listinfo/rock-users&quot;&gt;rock-users mailing
+list&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;wait for a Rock developer to pick up on that&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 22 Nov 2014 20:08:05 -0300</pubDate>
+        <link>http://localhost:4000/introduction/packages.html</link>
+        <guid isPermaLink="true">http://localhost:4000/introduction/packages.html</guid>
+        
+        
+        <category>introduction</category>
+        
+      </item>
+    
+      <item>
+        <title>Package Structure</title>
+        <description>&lt;p class=&quot;note&quot;&gt;Below, oroGen refers to the tool that is used in Rock to develop components&lt;/p&gt;
+
+&lt;h2 id=&quot;categories&quot;&gt;Categories&lt;/h2&gt;
+&lt;p&gt;The Rock packages are split into 6 main categories&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;base&lt;/strong&gt; base types, CMake script repositories, …&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;drivers&lt;/strong&gt; packages that are related to device drivers: drivers themselves,
+and common libraries that ease their development&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;slam&lt;/strong&gt; packages that are related to localization and mapping both separately
+and as SLAM&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;control&lt;/strong&gt; packages that are related to motion control&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;planning&lt;/strong&gt; packages that are related to path and task planning&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;toolchain&lt;/strong&gt; packages that are related to the toolchain&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;image_processing&lt;/strong&gt; packages that are related to image processing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;On gitorious, each category has its own project, called rock-NAME (for instance,
+rock-drivers for the drivers).&lt;/p&gt;
+
+&lt;p&gt;When installed, packages go into folders that correspond to their main category.
+Moreover, the oroGen-independent packages are installed directly under that
+folder, while the oroGen components are installed in an ‘orogen’ subfolder.&lt;/p&gt;
+
+&lt;p&gt;For instance, the driver libraries are stored in drivers/ and the driver oroGen
+components in drivers/orogen/&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;no other subdirectories other than “orogen” can be created under the main
+categories&lt;/li&gt;
+  &lt;li&gt;opening new categories is indeed possible but &lt;strong&gt;must&lt;/strong&gt; be discussed first on
+the mailing list.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;naming&quot;&gt;Naming&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;snake_case for all path components (categories and package names)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;libraries-and-orogen-components&quot;&gt;Libraries and oroGen components&lt;/h2&gt;
+&lt;p&gt;The most important design factor in the Rock package structure is that
+functionality should be implemented in a way that is &lt;strong&gt;independent from any
+integration framework&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In practice, it means that for most functionality, there will be two Rock
+packages:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the “library” part which usually is a C++ library, that uses CMake to build,
+with maybe some dependencies on other C++ libraries (other Rock libraries
+and/or “common” libraries)&lt;/li&gt;
+  &lt;li&gt;the “orogen” part which is providing an integrated oroGen component for the
+libraries.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For instance, in the &lt;a href=&quot;http://gitorious.org/rock-drivers&quot;&gt;rock-drivers&lt;/a&gt;
+subproject, there is &lt;a href=&quot;http://gitorious.org/rock-drivers/hokuyo&quot;&gt;the Hokuyo driver
+library&lt;/a&gt; and the corresponding &lt;a href=&quot;http://gitorious.org/rock-drivers/orogen-hokuyo&quot;&gt;oroGen
+component&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;mapping-between-local-installation-and-gitorious-repositories&quot;&gt;Mapping between local installation and gitorious repositories&lt;/h2&gt;
+
+&lt;p&gt;A library (non-oroGen package) installed on the local system as&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;category/package_name
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;will be managed in a gitorious repository called&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;http://gitorious.org/rock-category/package_name
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p class=&quot;warning&quot;&gt;&lt;strong&gt;Exception&lt;/strong&gt; the toolchain packages are installed in tools/ but are managed in
+the rock-toolchain project&lt;/p&gt;
+
+&lt;p&gt;An oroGen package installed on the local system as&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;category/orogen/package_name
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;will be managed in a gitorious repository called&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;http://gitorious.org/rock-category/orogen-package_name
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;When a one-to-one mapping exists between a library and an oroGen package (e.g.
+the hokuyo driver library and the hokuyo oroGen component), both will have the
+same “package_name”. For instance, when installed&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;drivers/hokuyo
+drivers/orogen/hokuyo
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;and on gitorious:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;http://gitorious.org/rock-drivers/hokuyo
+http://gitorious.org/rock-drivers/orogen-hokuyo
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+        <pubDate>Sat, 22 Nov 2014 20:08:05 -0300</pubDate>
+        <link>http://localhost:4000/introduction/package_structure.html</link>
+        <guid isPermaLink="true">http://localhost:4000/introduction/package_structure.html</guid>
+        
+        
+        <category>introduction</category>
+        
+      </item>
+    
+      <item>
+        <title>Overview</title>
+        <description>&lt;p&gt;Rock offers both a &lt;strong&gt;rich development environment&lt;/strong&gt; and a collection of &lt;strong&gt;ready-to-use packages&lt;/strong&gt;. This documentation pages describe the development environment as well as some important “core” libraries. For the package documentation, got to the &lt;a href=&quot;/pkg&quot;&gt;package list&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;development-workflow&quot;&gt;Development Workflow&lt;/h2&gt;
+
+&lt;div class=&quot;fullwidth_video_400&quot;&gt;
+&lt;iframe src=&quot;http://www.youtube.com/embed/UkZYiw7crbw&quot; frameborder=&quot;0&quot; height=&quot;290&quot; width=&quot;400&quot;&gt;Youtube Video&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;First and foremost, development in Rock always starts with &lt;strong&gt;&lt;a href=&quot;tutorials/100_basics_create_library.html&quot;&gt;creating a library&lt;/a&gt;&lt;/strong&gt;. As a guideline, this library has to be independent of Rock’s component-based integration framework. That’s right, even if you don’t use Rock’s tooling, &lt;a href=&quot;packages/outside_of_rock.html&quot;&gt;feel free to use its drivers and algorithms&lt;/a&gt; Then, this library gets integrated in &lt;strong&gt;oroGen&lt;/strong&gt;, Rock’s component-oriented integration framework.&lt;/p&gt;
+
+&lt;p&gt;For runtime, network of Rock components are often setup and managed using &lt;a href=&quot;http://ruby-lang.org&quot;&gt;the Ruby programming language&lt;/a&gt;. Bindings to Ruby allow to start processes, start and stop components, connect them together and bind them to user interfaces in a very flexible way.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;tutorials/index.html&quot;&gt;Tutorials&lt;/a&gt; will guide you through getting to grips with the process, from a library to running network of components.&lt;/p&gt;
+
+&lt;h2 id=&quot;data-analysis&quot;&gt;Data Analysis&lt;/h2&gt;
+&lt;div class=&quot;fullwidth_video_400&quot;&gt;
+    &lt;iframe src=&quot;http://www.youtube.com/embed/PhHFzCNvjlQ&quot; frameborder=&quot;0&quot; height=&quot;290&quot; width=&quot;400&quot;&gt;Youtube Video&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;At this point, Rock offers extended support for runtime as well as offline data analysis. &lt;a href=&quot;data_analysis/index.html&quot;&gt;Logging&lt;/a&gt; is an integral part of the development workflow: it can be used for post-mortem analysis as well as to test components through log replay mechanisms. Then, &lt;strong&gt;Vizkit&lt;/strong&gt; kicks in. is both an oroGen-independent library of Qt-based widgets and OpenSceneGraph-based 3D visualizers, and a Ruby library that allows to seamlessly display both logged and live data. Extending it with new widgets and visualizers is straightforward.&lt;/p&gt;
+
+&lt;h2 id=&quot;advanced-system-management&quot;&gt;Advanced System Management&lt;/h2&gt;
+&lt;p&gt;Finally, Rock gives you rock-roby, a &lt;a href=&quot;system/index.html&quot;&gt;model-based system management layer&lt;/a&gt; which will allow you to manage complex networks of components both at design and running time. Have a look first at the &lt;a href=&quot;system_management_tutorials&quot;&gt;corresponding tutorials&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;fullwidth_video_400&quot;&gt;
+    &lt;iframe src=&quot;http://www.youtube.com/embed/QKl_0pGIfqI&quot; frameborder=&quot;0&quot; height=&quot;300&quot; width=&quot;400&quot;&gt;Youtube Video&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sat, 22 Nov 2014 20:08:05 -0300</pubDate>
+        <link>http://localhost:4000/introduction/overview.html</link>
+        <guid isPermaLink="true">http://localhost:4000/introduction/overview.html</guid>
+        
+        
+        <category>introduction</category>
+        
+      </item>
+    
+      <item>
+        <title>Using Rock packages outside Rock</title>
+        <description>&lt;p&gt;As we state many times when talking about Rock, most of rock packages are meant
+to be usable outside of Rock.&lt;/p&gt;
+
+&lt;p&gt;The cornerstone to that is to have separated the libraries – which are pure C++
+libraries using standard tools (CMake, pkg-config) to build – from the
+“integration framework”, which is oroGen in our case.&lt;/p&gt;
+
+&lt;p&gt;Anyway, this page deals with the steps needed to build CMake packages outside of
+Rock, which mainly means “without using the Rock build system (autoproj)”&lt;/p&gt;
+
+&lt;h2 id=&quot;preparations&quot;&gt;Preparations&lt;/h2&gt;
+&lt;p&gt;Just to be one the safe side, you will need the following elements to be able to
+build Rock packages:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;CMake&lt;/li&gt;
+  &lt;li&gt;gcc / g++&lt;/li&gt;
+  &lt;li&gt;pkg-config&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Additionally, some packages will require autotools / automake to build&lt;/p&gt;
+
+&lt;p&gt;The first thing you will need to do is install the base/types package. Check it
+out&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-coderay&quot;&gt;&lt;div class=&quot;CodeRay&quot;&gt;
+  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;git clone git://gitorious.org/rock-base/types.git
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;and install it&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-coderay&quot;&gt;&lt;div class=&quot;CodeRay&quot;&gt;
+  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;cd types
+mkdir build
+cd build
+cmake -DCMAKE_INSTALL_PREFIX=$HOME/dev/install ..
+make install
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;note&quot;&gt;The previous step will install everything but the Spline classes, which are
+needed for instance by the trajectory following / motion planning components. If
+you need the Spline class, install the /pkg/external/sisl/index.html package beforehand.&lt;/p&gt;
+
+&lt;p&gt;Once you have installed this package, you will also need to set a few important
+environment variables:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-coderay&quot;&gt;&lt;div class=&quot;CodeRay&quot;&gt;
+  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;export CMAKE_PREFIX_PATH=$HOME/dev/install
+export PKG_CONFIG_PATH=$HOME/dev/install/lib/pkgconfig:$HOME/dev/install/share/pkgconfig:$HOME/dev/install/lib64/pkgconfig:$PKG_CONFIG_PATH
+export LD_LIBRARY_PATH=$HOME/dev/install/lib:$HOME/dev/install/lib64:$PKG_CONFIG_PATH
+export PATH=$HOME/dev/install/bin:$PATH
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Usually, it is best practice to put this line in an env.sh line and source it
+automatically in e.g. your $HOME/.bashrc:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-coderay&quot;&gt;&lt;div class=&quot;CodeRay&quot;&gt;
+  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;source $HOME/dev/env.sh
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;how-to-build-the-other-packages&quot;&gt;How to build the other packages&lt;/h2&gt;
+&lt;p&gt;Since you are trying to build Rock packages without autoproj, you will have to
+do autoproj’s job, namely:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;install each package dependency (OS packages and need-to-be-built packages)&lt;/li&gt;
+  &lt;li&gt;configure and build each package&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The rest of this page will outline these steps for you&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To install the package dependencies&lt;/strong&gt; the best way is to have a look on the
+&lt;a href=&quot;/package_directory.html&quot;&gt;package directory&lt;/a&gt;. The dependencies of each package
+are listed there.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To configure and build the package&lt;/strong&gt;, the steps are essentially the same than
+for base/types, namely:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;checkout the package. The URL is listed in the package directory page about
+the package you have to install&lt;/li&gt;
+  &lt;li&gt;configure it by doing the following inside the package source:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlighter-coderay&quot;&gt;&lt;div class=&quot;CodeRay&quot;&gt;
+  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;mkdir build
+cd build
+cmake -DCMAKE_INSTALL_PREFIX=$HOME/dev/install ..
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;finally, build and install&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlighter-coderay&quot;&gt;&lt;div class=&quot;CodeRay&quot;&gt;
+  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;make install
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 22 Nov 2014 20:08:05 -0300</pubDate>
+        <link>http://localhost:4000/introduction/outside_of_rock.html</link>
+        <guid isPermaLink="true">http://localhost:4000/introduction/outside_of_rock.html</guid>
+        
+        
+        <category>introduction</category>
+        
+      </item>
+    
+      <item>
+        <title>Relation to Others</title>
+        <description>&lt;h2 id=&quot;whats-the-difference-with-the-orocos-toolchain&quot;&gt;What’s the difference with the Orocos Toolchain?&lt;/h2&gt;
+&lt;p&gt;The Orocos Toolchain is the standard infrastructure required to build Orocos
+components. It contains the Real-Time Toolkit, typeGen/oroGen code generators
+and supportive components for deployment and task browsing.&lt;/p&gt;
+
+&lt;p&gt;The Rock toolchain is centered around the use of oroGen for component
+writing, and the Ruby language for system deployment and data analysis. In
+practice, what you get is:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;use Ruby scripts to start your components and monitor them&lt;/li&gt;
+  &lt;li&gt;use a model-based tool for large-scale system deployment, and benefit from
+its logging capabilities to do post-mortem analysis of system behavior.&lt;/li&gt;
+  &lt;li&gt;use the data logger to log all data that your components generate, and use
+Ruby scripts to analyze this load of data. Replay the data into components
+for testing, or use the Rock UI to display it.&lt;/li&gt;
+  &lt;li&gt;benefit from a large component repository&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Important for existing Orocos users&lt;/strong&gt; The development workflow in Rock does
+not encourage the use of the Orocos deployer and the RTT scripting language.
+Since they are both expensive to build, they are by default disabled when you
+build the Rock toolchain. However:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;you can reenable OCL by removing the ‘ocl’ line in exclude_packages in autoproj/manifest&lt;/li&gt;
+  &lt;li&gt;you can reenable the RTT scripting by changing PLUGINS_SCRIPTING_ENABLED from OFF
+to ON in autoproj/overrides.rb&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-does-rock-relate-to-the-robot-operating-system-ros&quot;&gt;How does Rock relate to the Robot Operating System (ROS)?&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://ros.org&quot;&gt;Robot Operating System&lt;/a&gt; is similar to Rock in scope. It
+provides tooling, drivers and modules (called nodes) to support the generation
+of software for a wide variety of robots. While ROS started out to be mainly for
+indoor service robotics, the module and driver base has extended to other
+application areas recently.&lt;/p&gt;
+
+&lt;p&gt;Without giving a detailed comparison, we would like to point out a few points
+with regard to differences in paradigm between ROS and Rock:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;ROS uses a topic based communication model, while Rock is connection based.
+While topic based communication is possibly simpler to use in some
+applications as it requires less management overhead, it also makes it harder
+to control the flow of information in the system.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;ROS does not require a formal model, while Rock modules are defined using
+an abstract module description. Having a formal description of the module,
+allows higher-level runtime tools the management of state and connections.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Real-time applications can easily be implemented in Rock since it is directly
+based on the Orocos RTT. ROS also provides support for Orocos in real-time
+domains, but requires special interfacing.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Rock has the policy to split between libraries and modules, so that
+communication layer and functionality are separated. In this way, Rock plays
+nice with other systems. This is also the case for the bigger libraries in
+ROS like pcl and opencv, but does not seem to be a general policy.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Rock can use normal C++ classes (with restrictions) as interface types,
+while ROS requires a special compiler for the interface types. This makes
+separation of functionality and communication easier, as most of the libraries
+datatypes can be directly used for module communication.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Rock has native support for flexible module deployments. There is full
+control over how modules get split up into processes to avoid process
+boundaries for high interacting modules. This is also possible in ROS with the
+help of Nodelets, but not as transparent.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;ROS has been around longer than Rock, has a larger library of modules and is
+more mature in its tooling.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 22 Nov 2014 20:08:05 -0300</pubDate>
+        <link>http://localhost:4000/introduction/others.html</link>
+        <guid isPermaLink="true">http://localhost:4000/introduction/others.html</guid>
+        
+        
+        <category>introduction</category>
+        
+      </item>
+    
+  </channel>
+</rss>
