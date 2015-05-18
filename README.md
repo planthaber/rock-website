@@ -28,4 +28,3 @@ Installing is recommended to check the jekyll build process before pushing to th
 > 3. View the result on http://username.github.io
 
 More information on https://pages.github.com/
-
